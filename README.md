@@ -1,4 +1,4 @@
 HowdyBugs
 =========
 
-Bug Tracker site
+Bug Tracker
